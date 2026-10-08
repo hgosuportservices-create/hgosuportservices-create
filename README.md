@@ -1,13 +1,13 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:18122B,50:6D28D9,100:A78BFA&height=240&section=header&text=Hugo%20Fonseca&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20%7C%20Automation%20%26%20Web&descAlignY=60&descSize=18" width="100%" alt="Hugo Fonseca — Freelance, Automation & Web" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:18122B,50:6D28D9,100:A78BFA&height=240&section=header&text=Hugo%20Fonseca&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Publisher%20%7C%20Automation%20%26%20Web&descAlignY=60&descSize=18" width="100%" alt="Hugo Fonseca — Éditeur de logiciels, Automation & Web" />
 </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1400&color=A78BFA&center=true&vCenter=true&width=680&lines=Moins+de+t%C3%A2ches+r%C3%A9p%C3%A9titives.+Plus+de+temps.;Less+busywork.+More+time+for+your+business.;n8n+%C2%B7+API+%C2%B7+Websites+%C2%B7+AI+tools" alt="Moins de tâches répétitives. Plus de temps. / Less busywork. More time for your business." />
 </p>
 
-<h3 align="center">Automatisation n8n · Intégrations API · Sites web</h3>
-<p align="center"><strong>n8n automation · API integrations · Websites</strong></p>
+<h3 align="center">Éditeur de logiciels · Automatisation · Web</h3>
+<p align="center"><strong>Software publisher · Automation · Websites</strong></p>
 <p align="center">Des outils connectés pour une activité plus simple.<br/><em>Connected tools for a simpler working day.</em></p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ### Bonjour, moi c’est Hugo
 
-Je suis freelance. Je crée des sites web et je connecte vos outils avec **n8n** et les **API**, pour simplifier les tâches répétitives de votre activité.
+Je suis **éditeur de logiciels et freelance**. Je conçois des logiciels, crée des sites web et je connecte vos outils avec **n8n** et les **API**, pour simplifier les tâches répétitives de votre activité.
 
 J’utilise aussi **Claude** et **ChatGPT** comme assistants dans mon travail. Mon approche : partir d’un besoin concret et construire une solution utile, compréhensible et adaptée à votre quotidien.
 
@@ -40,6 +40,7 @@ J’utilise aussi **Claude** et **ChatGPT** comme assistants dans mon travail. M
 
 | Votre besoin | Mon accompagnement |
 | :--- | :--- |
+| Concevoir un logiciel | Création de logiciels et d’applications adaptés à vos besoins. |
 | Présenter votre activité | Création de sites web et de landing pages. |
 | Éviter les tâches répétitives | Mise en place de scénarios d’automatisation avec n8n. |
 | Faire communiquer vos logiciels | Intégrations API selon les possibilités de vos outils. |
@@ -60,7 +61,7 @@ Nous clarifions votre besoin, les outils existants et les résultats attendus. L
 
 ### Hi, I’m Hugo
 
-I’m a freelancer. I build websites and connect your tools using **n8n** and **APIs**, helping simplify repetitive tasks in your business.
+I’m a **software publisher and freelancer**. I create software, build websites and connect your tools using **n8n** and **APIs**, helping simplify repetitive tasks in your business.
 
 I also use **Claude** and **ChatGPT** as assistants in my work. My approach is to start with a practical need and build a useful, understandable solution that fits your day-to-day work.
 
@@ -68,6 +69,7 @@ I also use **Claude** and **ChatGPT** as assistants in my work. My approach is t
 
 | Your need | My services |
 | :--- | :--- |
+| Create software | Software and applications tailored to your needs. |
 | Present your business | Websites and landing pages. |
 | Reduce repetitive work | Automation workflows built with n8n. |
 | Connect your software | API integrations based on what your tools support. |
