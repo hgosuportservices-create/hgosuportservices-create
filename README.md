@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:10121B,50:0891B2,100:55CCEF&height=240&section=header&text=Hugo%20Fonseca&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Publisher%20%7C%20Automation%20%26%20Web&descAlignY=60&descSize=18" width="100%" alt="Hugo Fonseca — Éditeur de logiciels, Automation & Web" />
+<img src="https://raw.githubusercontent.com/hgosuportservices-create/hgosuportservices-create/main/assets/banner-cyan.svg" width="100%" alt="Hugo Fonseca — Éditeur de logiciels, Automation & Web" />
 </p>
 
 <p align="center">
