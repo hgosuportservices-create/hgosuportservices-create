@@ -1,10 +1,8 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/hgosuportservices-create/hgosuportservices-create/main/assets/banner-cyan.svg" width="100%" alt="Hugo Fonseca — Éditeur de logiciels, Automation & Web" />
+<img src="assets/banner-cyan.svg" width="100%" alt="Hugo Fonseca — Éditeur de logiciels, Automation & Web" />
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1400&color=55CCEF&center=true&vCenter=true&width=680&lines=Moins+de+t%C3%A2ches+r%C3%A9p%C3%A9titives.+Plus+de+temps.;Less+busywork.+More+time+for+your+business.;n8n+%C2%B7+API+%C2%B7+Websites+%C2%B7+AI+tools" alt="Moins de tâches répétitives. Plus de temps. / Less busywork. More time for your business." />
-</p>
+<p align="center"><strong>Moins de tâches répétitives. Plus de temps pour l’essentiel.</strong><br/><em>Less busywork. More time for what matters.</em></p>
 
 <h3 align="center">Éditeur de logiciels · Automatisation · Web</h3>
 <p align="center"><strong>Software publisher · Automation · Websites</strong></p>
@@ -89,6 +87,4 @@ We clarify your needs, existing tools and expected outcomes. We define the scope
 
 <p align="center"><strong>Moins de tâches répétitives. Plus de temps pour l’essentiel.</strong><br/><em>Less busywork. More time for what matters.</em></p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10121B,100:55CCEF&height=105&section=footer" width="100%" alt="Décor cyan de bas de page / Cyan footer decoration" />
-</p>
+
