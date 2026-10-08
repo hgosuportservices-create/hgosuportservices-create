@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1400&amp;color=55CCEF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=Moins+de+t%C3%A2ches+r%C3%A9p%C3%A9titives.+Plus+de+temps.;Less+busywork.+More+time+for+your+business.;Logiciels+%C2%B7+Automatisation+%C2%B7+Web" alt="Moins de tâches répétitives. Plus de temps." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3000&amp;pause=1400&amp;color=55CCEF&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=n8n+%C2%B7+API+%C2%B7+Sites+web;n8n+%C2%B7+API+%C2%B7+Claude+%C2%B7+ChatGPT" alt="n8n · API · Sites web · Claude · ChatGPT" />
 </p>
 
 <h3 align="center">Éditeur de logiciels · Automatisation · Web</h3>
