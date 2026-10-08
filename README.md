@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18122B,100:7C3AED&height=215&section=header&text=Hugo%20Fonseca&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20%7C%20Automation%20%26%20Web&descAlignY=60&descSize=18" width="100%" alt="Hugo Fonseca — Freelance, Automation & Web" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:18122B,50:6D28D9,100:A78BFA&height=240&section=header&text=Hugo%20Fonseca&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Freelance%20%7C%20Automation%20%26%20Web&descAlignY=60&descSize=18" width="100%" alt="Hugo Fonseca — Freelance, Automation & Web" />
 </p>
 
 <p align="center">
@@ -15,6 +15,17 @@
 <a href="#english"><img src="https://img.shields.io/badge/EN-English-4338CA?style=flat-square" alt="Presentation in English" /></a>
 </p>
 
+<h3 align="center">Ma boîte à outils · My toolkit</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/API-Integrations-7C3AED?style=for-the-badge" alt="API integrations" />
+<img src="https://img.shields.io/badge/Web-Sites_%26_Landing_Pages-4338CA?style=for-the-badge" alt="Websites and landing pages" />
+<img src="https://img.shields.io/badge/Claude-AI_Assistant-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+<img src="https://img.shields.io/badge/ChatGPT-AI_Assistant-374151?style=for-the-badge" alt="ChatGPT" />
+</p>
+
+
 ---
 
 ## Français
@@ -25,7 +36,7 @@ Je suis freelance. Je crée des sites web et je connecte vos outils avec **n8n**
 
 J’utilise aussi **Claude** et **ChatGPT** comme assistants dans mon travail. Mon approche : partir d’un besoin concret et construire une solution utile, compréhensible et adaptée à votre quotidien.
 
-### Ce que je propose
+### ✦ Des solutions pour votre quotidien
 
 | Votre besoin | Mon accompagnement |
 | :--- | :--- |
@@ -34,13 +45,16 @@ J’utilise aussi **Claude** et **ChatGPT** comme assistants dans mon travail. M
 | Faire communiquer vos logiciels | Intégrations API selon les possibilités de vos outils. |
 | Utiliser l’IA dans votre quotidien | Accompagnement à l’utilisation de Claude et ChatGPT pour des tâches définies. |
 
-### Ma façon de travailler
+### ◈ Une méthode claire
 
 **Comprendre → Construire → Vérifier → Expliquer**
 
 Nous clarifions votre besoin, les outils existants et les résultats attendus. Le périmètre est défini avant de commencer, puis la solution est ajustée avec vous.
 
 ---
+
+<details>
+<summary><strong>🇬🇧 Read the English version</strong></summary>
 
 ## English
 
@@ -67,26 +81,7 @@ We clarify your needs, existing tools and expected outcomes. We define the scope
 
 ---
 
-## Outils / Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/API-Integrations-7C3AED?style=for-the-badge" alt="API integrations" />
-<img src="https://img.shields.io/badge/Web-Sites_%26_Landing_Pages-4338CA?style=for-the-badge" alt="Websites and landing pages" />
-<img src="https://img.shields.io/badge/Claude-AI_Assistant-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
-<img src="https://img.shields.io/badge/ChatGPT-AI_Assistant-374151?style=for-the-badge" alt="ChatGPT" />
-</p>
-
-## Cap / Focus
-
-
-```yaml
-focus:
-  - Automatisation de tâches répétitives / Repetitive task automation
-  - Connexion d’outils via API / Connecting tools through APIs
-  - Sites web clairs et utiles / Clear and useful websites
-approach: Comprendre · Construire · Vérifier · Expliquer
-```
+</details>
 
 ---
 
